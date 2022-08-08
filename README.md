@@ -5,18 +5,19 @@ En este challenge consistio de tres Retos, la solucion de los mismos se enumeran
 
 | Ejercicios | Link  |
 |:------------------:|------------|
-| Ejer1           | [Aquí](https://github.com/roxsross/bootcamp-2-challenge/tree/master/01/reto1.md) | 
-| Ejer2            | [Aquí](https://github.com/roxsross/bootcamp-2-challenge/tree/master/01/reto1.md) | 
-| Ejer3            | [Aquí](https://github.com/roxsross/bootcamp-2-challenge/tree/master/01/reto1.md) | 
+| Ejer1           | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer1.sh) | 
+| Ejer2            | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer2.sh) | 
+| Ejer3            | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer3.sh) | 
 
 ## 2. Reto 2 - Linux - gestión de permisos 
 
 | Ejercicios | Link  |
 |:------------------:|------------|
-| Ejer1           | [Aquí](https://github.com/roxsross/bootcamp-2-challenge/tree/master/01/reto1.md) | 
+| Ejer1           | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_2/ejer1.sh) | 
+| Ejer4           | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_2/Ejer4.md) | 
 
 ## 3. Reto 3 - Linux - gestión de directorios 
 
 | Ejercicios | Link  |
 |:------------------:|------------|
-| Ejer1           | [Aquí](https://github.com/roxsross/bootcamp-2-challenge/tree/master/01/reto1.md) | 
+| Ejer1           | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_3/ejer1.sh) | 
