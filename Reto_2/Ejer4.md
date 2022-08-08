@@ -7,7 +7,7 @@ Roxs es la líder de un equipo de trabajo para una compañía que realiza Audito
 Para  proveer  una  solución  apropiada  para  restringir  accesos  no autorizados  al archivo, se necesita realizar lo siguiente: 
 
 ### 1. Identificar las medidas de seguridad a implementarse. 
-  - Se podria mover el archivo *Lista_Precios* a un directorio diferente, es decir al del usuario de Roxs. Por ejemplo `/home/Roxs`
+  - Mover el archivo *Lista_Precios* a un directorio diferente, es decir al del usuario de Roxs. Por ejemplo `/home/Roxs/`
   - Administrar los permisos del archivo, para que el equipo de Roxs no pueda acceder al mismo.
   - Comentar al resto del equipo que, que el archivo tiene informacion importante de nuestro cliente y que la modificación del mismo puede perjudicar nuestro trabajo.
 
