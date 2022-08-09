@@ -8,6 +8,8 @@ En este challenge consistio de tres Retos, la solucion de los mismos se enumeran
 | Ejer1           | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer1.sh) | 
 | Ejer2            | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer2.sh) | 
 | Ejer3            | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer3.sh) | 
+| Ejer4            | [Aquí](https://github.com/CSilvi/2-challenge/blob/master/Reto_1/ejer4.sh) | 
+
 
 ## 2. Reto 2 - Linux - gestión de permisos 
 
